@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **blago0363@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **Yeahh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

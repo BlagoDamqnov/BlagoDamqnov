@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Blagovest Damqnov(https://www.linkedin.com/in/blagovest-damqnov-88b3b8237/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blagovest damqnov" height="30" width="40" /></a>
-<a href="https://fb.com/Благовест Дамянов(https://www.facebook.com/profile.php?id=100021886369878)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="blagovest damqnov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/blagovest-damqnov-88b3b8237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blagovest damqnov" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100021886369878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="blagovest damqnov" height="30" width="40" /></a>
 <a href="https://instagram.com/blagovest2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blagovest2004" height="30" width="40" /></a>
 <a href="https://discord.gg/#9950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9950" height="30" width="40" /></a>
 </p>
